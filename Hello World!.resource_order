@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fn_font","order":3,"path":"fonts/fn_font/fn_font.yy",},
+    {"name":"ob_button","order":1,"path":"objects/ob_button/ob_button.yy",},
+    {"name":"sp_button","order":2,"path":"sprites/sp_button/sp_button.yy",},
+  ],
+}
